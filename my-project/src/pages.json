@@ -1,0 +1,40 @@
+{
+	"pages": [ 
+		{
+			"path": "pages/index/index", 
+			"style": {
+				"navigationBarTitleText": "uni-app"
+			}
+		}, 
+		{
+			"path": "pages/mv/mv",
+			"style": {
+				"navigationBarTitleText": "MV"
+			}
+		},
+		{
+			"path": "pages/me/me",
+			"style": {
+				"navigationBarTitleText": "ME"
+			}
+		},
+		{
+			"path": "pages/playMusic/playMusic",
+			"style": {
+				"navigationBarTitleText": "playMusic"
+			}
+		},
+		{
+			"path": "pages/canvas/canvas",
+			"style": {
+				"navigationBarTitleText": "canvas"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}
